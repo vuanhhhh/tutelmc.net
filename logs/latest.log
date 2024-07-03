@@ -1,0 +1,33 @@
+[22:23:41] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[22:23:42] [ServerMain/INFO]: No existing world data, creating new world
+[22:23:44] [ServerMain/INFO]: Loaded 1290 recipes
+[22:23:44] [ServerMain/INFO]: Loaded 1399 advancements
+[22:23:46] [Server thread/INFO]: Starting minecraft server version 1.21
+[22:23:46] [Server thread/INFO]: Loading properties
+[22:23:46] [Server thread/INFO]: Default game type: SURVIVAL
+[22:23:46] [Server thread/INFO]: Generating keypair
+[22:23:46] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:23:47] [Server thread/INFO]: Using default channel type
+[22:23:47] [Server thread/INFO]: Preparing level "world"
+[22:23:57] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:23:58] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[22:23:59] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[22:23:59] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[22:23:59] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[22:24:00] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[22:24:00] [Worker-Main-3/INFO]: Preparing spawn area: 2%
+[22:24:01] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[22:24:01] [Worker-Main-3/INFO]: Preparing spawn area: 2%
+[22:24:02] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[22:24:02] [Worker-Main-3/INFO]: Preparing spawn area: 16%
+[22:24:03] [Worker-Main-3/INFO]: Preparing spawn area: 18%
+[22:24:03] [Worker-Main-3/INFO]: Preparing spawn area: 18%
+[22:24:03] [Worker-Main-3/INFO]: Preparing spawn area: 18%
+[22:24:04] [Worker-Main-2/INFO]: Preparing spawn area: 18%
+[22:24:05] [Worker-Main-2/INFO]: Preparing spawn area: 51%
+[22:24:05] [Worker-Main-2/INFO]: Preparing spawn area: 51%
+[22:24:06] [Worker-Main-3/INFO]: Preparing spawn area: 51%
+[22:24:06] [Worker-Main-2/INFO]: Preparing spawn area: 51%
+[22:24:06] [Worker-Main-1/INFO]: Preparing spawn area: 51%
+[22:24:07] [Server thread/INFO]: Time elapsed: 9393 ms
+[22:24:07] [Server thread/INFO]: Done (20.108s)! For help, type "help"
